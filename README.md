@@ -1,2 +1,2 @@
 # RepoRemoto
-Mi primer repo remoto
+Mi primer repositorio remoto
